@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science & analysis
 - 🌱 I’m currently learning Applied Mathematics & Computer Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - dwalston.612@gmail.com
 
 <!---
 DWalston/DWalston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
